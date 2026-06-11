@@ -4,8 +4,6 @@
 📍 Based in Turkey  
 🔍 Open to new opportunities
 
----
-
 ## 🛠 Tech Stack
 
 <a href="https://www.java.com/en/"><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"/></a>
@@ -14,8 +12,6 @@
 <a href="https://git-scm.com/"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" /></a>
-
----
 
 ## 📫 Get in Touch
 
